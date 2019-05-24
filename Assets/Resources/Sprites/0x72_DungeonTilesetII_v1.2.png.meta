@@ -1,0 +1,3602 @@
+fileFormatVersion: 2
+guid: 0ca003fde287ae944a7f524e23817d5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -169494284831070887
+    second: wallTop_1
+  - first:
+      213: -5612528070820006317
+    second: wallTop_2
+  - first:
+      213: -7987294891690179273
+    second: wallTop_3
+  - first:
+      213: 1239350156046317824
+    second: fountainWallTop_1
+  - first:
+      213: 3924211388036001503
+    second: fountainWallTop_2
+  - first:
+      213: -4135131907021546191
+    second: fountainWallTop_3
+  - first:
+      213: -9040387105153588595
+    second: 0x72_DungeonTilesetII_v1.2_6
+  - first:
+      213: -2298880462959793658
+    second: 0x72_DungeonTilesetII_v1.2_7
+  - first:
+      213: 6080612640920634678
+    second: wall_1
+  - first:
+      213: 755492247015306760
+    second: wall_2
+  - first:
+      213: -2464670612366509162
+    second: wall_3
+  - first:
+      213: 8849666756848519263
+    second: lavaFountainWall
+  - first:
+      213: -8867302884789271401
+    second: 0x72_DungeonTilesetII_v1.2_12
+  - first:
+      213: -3608136541703281750
+    second: 0x72_DungeonTilesetII_v1.2_13
+  - first:
+      213: -6050851277337184390
+    second: npc_2
+  - first:
+      213: -7354850186015983101
+    second: 0x72_DungeonTilesetII_v1.2_15
+  - first:
+      213: 8816281685117392695
+    second: 0x72_DungeonTilesetII_v1.2_16
+  - first:
+      213: -519525401421418557
+    second: 0x72_DungeonTilesetII_v1.2_17
+  - first:
+      213: 8788234264876949080
+    second: 0x72_DungeonTilesetII_v1.2_18
+  - first:
+      213: -3652342359405761836
+    second: 0x72_DungeonTilesetII_v1.2_19
+  - first:
+      213: -1751407154870761689
+    second: 0x72_DungeonTilesetII_v1.2_20
+  - first:
+      213: 8855043189953028168
+    second: 0x72_DungeonTilesetII_v1.2_21
+  - first:
+      213: 3835817656664474331
+    second: 0x72_DungeonTilesetII_v1.2_22
+  - first:
+      213: 6134970149673287009
+    second: 0x72_DungeonTilesetII_v1.2_23
+  - first:
+      213: -5944211549985450333
+    second: 0x72_DungeonTilesetII_v1.2_24
+  - first:
+      213: -470888137912344566
+    second: 0x72_DungeonTilesetII_v1.2_25
+  - first:
+      213: -719032198857558308
+    second: 0x72_DungeonTilesetII_v1.2_26
+  - first:
+      213: 8846823349010027769
+    second: enemy_rock
+  - first:
+      213: -6991160655743985427
+    second: 0x72_DungeonTilesetII_v1.2_28
+  - first:
+      213: -7621802325393856172
+    second: 0x72_DungeonTilesetII_v1.2_29
+  - first:
+      213: -4177993358634767923
+    second: 0x72_DungeonTilesetII_v1.2_30
+  - first:
+      213: -6266351549899380680
+    second: 0x72_DungeonTilesetII_v1.2_31
+  - first:
+      213: 1690034826332086305
+    second: 0x72_DungeonTilesetII_v1.2_32
+  - first:
+      213: -4422017611150716695
+    second: 0x72_DungeonTilesetII_v1.2_33
+  - first:
+      213: 9086201479169650716
+    second: 0x72_DungeonTilesetII_v1.2_34
+  - first:
+      213: 7375185911448686712
+    second: wallFlag_R
+  - first:
+      213: 5137073483053603258
+    second: wallFlag_B
+  - first:
+      213: 5999054045664761934
+    second: wallHole_1
+  - first:
+      213: -7220412783388757488
+    second: lavaFountainFloor
+  - first:
+      213: 1051285297319937312
+    second: 0x72_DungeonTilesetII_v1.2_39
+  - first:
+      213: 5157279564230835568
+    second: 0x72_DungeonTilesetII_v1.2_40
+  - first:
+      213: 7879725005276064557
+    second: 0x72_DungeonTilesetII_v1.2_41
+  - first:
+      213: -734275734932738695
+    second: 0x72_DungeonTilesetII_v1.2_42
+  - first:
+      213: -8499727173070076941
+    second: 0x72_DungeonTilesetII_v1.2_43
+  - first:
+      213: 3298932244346237381
+    second: 0x72_DungeonTilesetII_v1.2_44
+  - first:
+      213: -5490591931875600193
+    second: 0x72_DungeonTilesetII_v1.2_45
+  - first:
+      213: -3803608893664742058
+    second: 0x72_DungeonTilesetII_v1.2_46
+  - first:
+      213: -6712002313853155310
+    second: 0x72_DungeonTilesetII_v1.2_47
+  - first:
+      213: 1456562250179360877
+    second: 0x72_DungeonTilesetII_v1.2_48
+  - first:
+      213: 7887048740431111013
+    second: 0x72_DungeonTilesetII_v1.2_49
+  - first:
+      213: -2014829524420791395
+    second: 0x72_DungeonTilesetII_v1.2_50
+  - first:
+      213: -8921740716149429997
+    second: 0x72_DungeonTilesetII_v1.2_51
+  - first:
+      213: -250182520148668874
+    second: 0x72_DungeonTilesetII_v1.2_52
+  - first:
+      213: 8601730010273031560
+    second: 0x72_DungeonTilesetII_v1.2_53
+  - first:
+      213: -7249871673279433844
+    second: enemy_orc
+  - first:
+      213: 4364772141032873385
+    second: 0x72_DungeonTilesetII_v1.2_55
+  - first:
+      213: 6935170533303079796
+    second: 0x72_DungeonTilesetII_v1.2_56
+  - first:
+      213: -572514269500815665
+    second: 0x72_DungeonTilesetII_v1.2_57
+  - first:
+      213: -4685496644632298717
+    second: 0x72_DungeonTilesetII_v1.2_58
+  - first:
+      213: -1653515614975299033
+    second: 0x72_DungeonTilesetII_v1.2_59
+  - first:
+      213: 8891846071919103615
+    second: 0x72_DungeonTilesetII_v1.2_60
+  - first:
+      213: 4959867535776796295
+    second: 0x72_DungeonTilesetII_v1.2_61
+  - first:
+      213: -3752615037331132143
+    second: wallFlag_G
+  - first:
+      213: -8524182100926056818
+    second: wallFlag_Y
+  - first:
+      213: 5682201340809049713
+    second: wallHole_2
+  - first:
+      213: -3791005384617080142
+    second: waterFountainWall
+  - first:
+      213: 4718814499596300854
+    second: 0x72_DungeonTilesetII_v1.2_66
+  - first:
+      213: -3367520629695815240
+    second: 0x72_DungeonTilesetII_v1.2_67
+  - first:
+      213: 168936356595111261
+    second: 0x72_DungeonTilesetII_v1.2_68
+  - first:
+      213: -2639630677464931186
+    second: 0x72_DungeonTilesetII_v1.2_69
+  - first:
+      213: 1455424368585503131
+    second: npc_1
+  - first:
+      213: -5232027527928790305
+    second: 0x72_DungeonTilesetII_v1.2_71
+  - first:
+      213: 4772841396243853202
+    second: 0x72_DungeonTilesetII_v1.2_72
+  - first:
+      213: 7489246047434557778
+    second: 0x72_DungeonTilesetII_v1.2_73
+  - first:
+      213: 8819792072609890935
+    second: 0x72_DungeonTilesetII_v1.2_74
+  - first:
+      213: 7083124143351471084
+    second: 0x72_DungeonTilesetII_v1.2_75
+  - first:
+      213: 80130467199079341
+    second: 0x72_DungeonTilesetII_v1.2_76
+  - first:
+      213: 2599991412061895786
+    second: 0x72_DungeonTilesetII_v1.2_77
+  - first:
+      213: -6576391802629029670
+    second: 0x72_DungeonTilesetII_v1.2_78
+  - first:
+      213: 5494740059211283547
+    second: 0x72_DungeonTilesetII_v1.2_79
+  - first:
+      213: -5080066644100907835
+    second: 0x72_DungeonTilesetII_v1.2_80
+  - first:
+      213: 5293645860388379719
+    second: enemy_imp
+  - first:
+      213: -6735501490452742608
+    second: 0x72_DungeonTilesetII_v1.2_82
+  - first:
+      213: -8742930719881116905
+    second: 0x72_DungeonTilesetII_v1.2_83
+  - first:
+      213: 5920921814828352570
+    second: 0x72_DungeonTilesetII_v1.2_84
+  - first:
+      213: -5171695030961785019
+    second: 0x72_DungeonTilesetII_v1.2_85
+  - first:
+      213: -7961514271331785131
+    second: 0x72_DungeonTilesetII_v1.2_86
+  - first:
+      213: 7385161601587731451
+    second: 0x72_DungeonTilesetII_v1.2_87
+  - first:
+      213: -6801383342227962566
+    second: 0x72_DungeonTilesetII_v1.2_88
+  - first:
+      213: -6658819770586479741
+    second: floor_1
+  - first:
+      213: 1657169660341192960
+    second: floor_2
+  - first:
+      213: 8002204934701931823
+    second: floor_3
+  - first:
+      213: -7426424633400910776
+    second: waterFountainFloor
+  - first:
+      213: 2027990266448135361
+    second: 0x72_DungeonTilesetII_v1.2_93
+  - first:
+      213: 401890381913489355
+    second: 0x72_DungeonTilesetII_v1.2_94
+  - first:
+      213: 673028535101778396
+    second: 0x72_DungeonTilesetII_v1.2_95
+  - first:
+      213: -4827460554829229978
+    second: 0x72_DungeonTilesetII_v1.2_96
+  - first:
+      213: -5123485463731380965
+    second: 0x72_DungeonTilesetII_v1.2_97
+  - first:
+      213: -7409710693149964762
+    second: 0x72_DungeonTilesetII_v1.2_98
+  - first:
+      213: -201448440288423577
+    second: 0x72_DungeonTilesetII_v1.2_99
+  - first:
+      213: 8435263754216269487
+    second: 0x72_DungeonTilesetII_v1.2_100
+  - first:
+      213: -8373806308659996578
+    second: 0x72_DungeonTilesetII_v1.2_101
+  - first:
+      213: -4829656276958987971
+    second: 0x72_DungeonTilesetII_v1.2_102
+  - first:
+      213: -8177713595347948379
+    second: 0x72_DungeonTilesetII_v1.2_103
+  - first:
+      213: 6673515660120199741
+    second: 0x72_DungeonTilesetII_v1.2_104
+  - first:
+      213: -3325148678718212088
+    second: 0x72_DungeonTilesetII_v1.2_105
+  - first:
+      213: 5280020025677850800
+    second: 0x72_DungeonTilesetII_v1.2_106
+  - first:
+      213: 7830898478617600477
+    second: 0x72_DungeonTilesetII_v1.2_107
+  - first:
+      213: 2626344344475449039
+    second: 0x72_DungeonTilesetII_v1.2_108
+  - first:
+      213: 319057315347757306
+    second: floor_4
+  - first:
+      213: 2890280911628125234
+    second: 0x72_DungeonTilesetII_v1.2_110
+  - first:
+      213: -7322172814951437695
+    second: acidFountainWall
+  - first:
+      213: 351382980409588647
+    second: columnFree_top
+  - first:
+      213: 551007963469413570
+    second: columnWall_top
+  - first:
+      213: -7652454369146500227
+    second: rKnight_1
+  - first:
+      213: 260739988955557121
+    second: rKnight_2
+  - first:
+      213: -5848943020749600896
+    second: rKnight_3
+  - first:
+      213: -3681843292623115260
+    second: rKnight_4
+  - first:
+      213: 7327796941909214457
+    second: rKnight_5
+  - first:
+      213: 6908775427783250
+    second: 0x72_DungeonTilesetII_v1.2_119
+  - first:
+      213: 3391611638645497407
+    second: rKnight_7
+  - first:
+      213: -6995807642927980359
+    second: rKnight_8
+  - first:
+      213: -6484682032242348630
+    second: rKnight_9
+  - first:
+      213: 7987432719896819037
+    second: 0x72_DungeonTilesetII_v1.2_123
+  - first:
+      213: -3550214760064620771
+    second: 0x72_DungeonTilesetII_v1.2_124
+  - first:
+      213: 3499634106414041034
+    second: 0x72_DungeonTilesetII_v1.2_125
+  - first:
+      213: -989803183943234521
+    second: 0x72_DungeonTilesetII_v1.2_126
+  - first:
+      213: 2243685600903963446
+    second: enemy_skeleton
+  - first:
+      213: -6983745865374204975
+    second: 0x72_DungeonTilesetII_v1.2_128
+  - first:
+      213: -4144922428492731137
+    second: 0x72_DungeonTilesetII_v1.2_129
+  - first:
+      213: -4146002389142581898
+    second: 0x72_DungeonTilesetII_v1.2_130
+  - first:
+      213: -4240299436748622342
+    second: 0x72_DungeonTilesetII_v1.2_131
+  - first:
+      213: -5852018926975895810
+    second: 0x72_DungeonTilesetII_v1.2_132
+  - first:
+      213: -141890959483791226
+    second: 0x72_DungeonTilesetII_v1.2_133
+  - first:
+      213: 9211477170593586745
+    second: 0x72_DungeonTilesetII_v1.2_134
+  - first:
+      213: -8444533694638901609
+    second: 0x72_DungeonTilesetII_v1.2_135
+  - first:
+      213: -7478588330881683946
+    second: 0x72_DungeonTilesetII_v1.2_136
+  - first:
+      213: -2386387896078807850
+    second: 0x72_DungeonTilesetII_v1.2_137
+  - first:
+      213: 2726687786933903898
+    second: acidFountainFloor
+  - first:
+      213: -6024088987350257278
+    second: columnFree_mid
+  - first:
+      213: 518156849203317983
+    second: columnWall_mid
+  - first:
+      213: -9220510105548760039
+    second: 0x72_DungeonTilesetII_v1.2_141
+  - first:
+      213: -3537497996137846026
+    second: 0x72_DungeonTilesetII_v1.2_142
+  - first:
+      213: -2874184372235169630
+    second: 0x72_DungeonTilesetII_v1.2_143
+  - first:
+      213: -5799351659452712998
+    second: 0x72_DungeonTilesetII_v1.2_144
+  - first:
+      213: -3333136632181440842
+    second: 0x72_DungeonTilesetII_v1.2_145
+  - first:
+      213: 3726806697428311458
+    second: rKnight_6
+  - first:
+      213: 2291322765531831996
+    second: 0x72_DungeonTilesetII_v1.2_147
+  - first:
+      213: 7480708370053922617
+    second: 0x72_DungeonTilesetII_v1.2_148
+  - first:
+      213: 8092055010195283757
+    second: 0x72_DungeonTilesetII_v1.2_149
+  - first:
+      213: 767507085271555944
+    second: 0x72_DungeonTilesetII_v1.2_150
+  - first:
+      213: 3297122975848868887
+    second: 0x72_DungeonTilesetII_v1.2_151
+  - first:
+      213: -3585805069137743407
+    second: 0x72_DungeonTilesetII_v1.2_152
+  - first:
+      213: 4209326618266681919
+    second: 0x72_DungeonTilesetII_v1.2_153
+  - first:
+      213: 1981754797575132797
+    second: leftWall_topEnd
+  - first:
+      213: -2933098209062064966
+    second: rightWall_topEnd
+  - first:
+      213: 1981922085739619945
+    second: topLeftCorner_top
+  - first:
+      213: -1320082178727969734
+    second: topRightCorner_top
+  - first:
+      213: 376598780635743654
+    second: columnFree_bottom
+  - first:
+      213: -7044218670726624459
+    second: columnWall_bottom
+  - first:
+      213: -6899515173941276990
+    second: 0x72_DungeonTilesetII_v1.2_160
+  - first:
+      213: -7678815045218363966
+    second: 0x72_DungeonTilesetII_v1.2_161
+  - first:
+      213: -4952512252881393947
+    second: 0x72_DungeonTilesetII_v1.2_162
+  - first:
+      213: -6746962524923904371
+    second: 0x72_DungeonTilesetII_v1.2_163
+  - first:
+      213: -4438071330293400841
+    second: 0x72_DungeonTilesetII_v1.2_164
+  - first:
+      213: 2455303493498547713
+    second: 0x72_DungeonTilesetII_v1.2_165
+  - first:
+      213: 3699363106024559042
+    second: 0x72_DungeonTilesetII_v1.2_166
+  - first:
+      213: 5300141616546588130
+    second: 0x72_DungeonTilesetII_v1.2_167
+  - first:
+      213: -5424086038456741328
+    second: 0x72_DungeonTilesetII_v1.2_168
+  - first:
+      213: 3431950311168839154
+    second: 0x72_DungeonTilesetII_v1.2_169
+  - first:
+      213: -3831199879461734873
+    second: 0x72_DungeonTilesetII_v1.2_170
+  - first:
+      213: -933912152977799709
+    second: 0x72_DungeonTilesetII_v1.2_171
+  - first:
+      213: -1928598027153131696
+    second: 0x72_DungeonTilesetII_v1.2_172
+  - first:
+      213: -8543447957951253234
+    second: enemy_greyGoo
+  - first:
+      213: -6761194851166048651
+    second: 0x72_DungeonTilesetII_v1.2_174
+  - first:
+      213: -113994054196384590
+    second: 0x72_DungeonTilesetII_v1.2_175
+  - first:
+      213: -2753877027401633574
+    second: 0x72_DungeonTilesetII_v1.2_176
+  - first:
+      213: 6501452073695549461
+    second: 0x72_DungeonTilesetII_v1.2_177
+  - first:
+      213: -8207252541409843285
+    second: 0x72_DungeonTilesetII_v1.2_178
+  - first:
+      213: 7864185001525602667
+    second: enemy_greenGoo
+  - first:
+      213: -1877522693265730592
+    second: 0x72_DungeonTilesetII_v1.2_180
+  - first:
+      213: -2679843350805463623
+    second: leftWall
+  - first:
+      213: -1315177169410104815
+    second: rightWall
+  - first:
+      213: -4267292468457542550
+    second: topLeftCorner_bottom
+  - first:
+      213: -6797154233701649291
+    second: topRightCorner_bottom
+  - first:
+      213: -8586437739423823458
+    second: 0x72_DungeonTilesetII_v1.2_185
+  - first:
+      213: -5964715148154159172
+    second: 0x72_DungeonTilesetII_v1.2_186
+  - first:
+      213: 8571236072394716481
+    second: 0x72_DungeonTilesetII_v1.2_187
+  - first:
+      213: -3944464234159119455
+    second: 0x72_DungeonTilesetII_v1.2_188
+  - first:
+      213: -3250028886057703927
+    second: 0x72_DungeonTilesetII_v1.2_189
+  - first:
+      213: -7743000902683424088
+    second: 0x72_DungeonTilesetII_v1.2_190
+  - first:
+      213: -2566469179052335372
+    second: 0x72_DungeonTilesetII_v1.2_191
+  - first:
+      213: 351931733913684378
+    second: 0x72_DungeonTilesetII_v1.2_192
+  - first:
+      213: 9191551360920408146
+    second: 0x72_DungeonTilesetII_v1.2_193
+  - first:
+      213: 3541974630231940801
+    second: 0x72_DungeonTilesetII_v1.2_194
+  - first:
+      213: -5513361536388108269
+    second: 0x72_DungeonTilesetII_v1.2_195
+  - first:
+      213: -6363225811676689516
+    second: 0x72_DungeonTilesetII_v1.2_196
+  - first:
+      213: 6956758110108219511
+    second: 0x72_DungeonTilesetII_v1.2_197
+  - first:
+      213: 3631132528610543716
+    second: 0x72_DungeonTilesetII_v1.2_198
+  - first:
+      213: 1161642426071779779
+    second: 0x72_DungeonTilesetII_v1.2_199
+  - first:
+      213: 1884840168038744423
+    second: 0x72_DungeonTilesetII_v1.2_200
+  - first:
+      213: 7581735016304738181
+    second: leftWall_bottomEnd
+  - first:
+      213: 798642726257118607
+    second: rightWall_bottomEnd
+  - first:
+      213: -6989701030369137640
+    second: bottomLeftCorner_top
+  - first:
+      213: -3405223129993121585
+    second: bottomRightCorner_top
+  - first:
+      213: -7919159387605317795
+    second: 0x72_DungeonTilesetII_v1.2_205
+  - first:
+      213: 6547052549962985447
+    second: 0x72_DungeonTilesetII_v1.2_206
+  - first:
+      213: -1759969350696972041
+    second: 0x72_DungeonTilesetII_v1.2_207
+  - first:
+      213: -2534038559346326866
+    second: npc_3
+  - first:
+      213: -726228927842525963
+    second: 0x72_DungeonTilesetII_v1.2_209
+  - first:
+      213: -6341932058241394065
+    second: 0x72_DungeonTilesetII_v1.2_210
+  - first:
+      213: 2894219019483937089
+    second: 0x72_DungeonTilesetII_v1.2_211
+  - first:
+      213: -5880619786219695565
+    second: 0x72_DungeonTilesetII_v1.2_212
+  - first:
+      213: -753879969522195144
+    second: 0x72_DungeonTilesetII_v1.2_213
+  - first:
+      213: -1144754731735938768
+    second: 0x72_DungeonTilesetII_v1.2_214
+  - first:
+      213: 1966963377830523717
+    second: 0x72_DungeonTilesetII_v1.2_215
+  - first:
+      213: 6600509721530814606
+    second: 0x72_DungeonTilesetII_v1.2_216
+  - first:
+      213: 9031588912549149040
+    second: 0x72_DungeonTilesetII_v1.2_217
+  - first:
+      213: 5119702385963043178
+    second: 0x72_DungeonTilesetII_v1.2_218
+  - first:
+      213: -6724639434519248331
+    second: 0x72_DungeonTilesetII_v1.2_219
+  - first:
+      213: -5136610195799400187
+    second: 0x72_DungeonTilesetII_v1.2_220
+  - first:
+      213: -4786616968576104714
+    second: enemy_knight_grey
+  - first:
+      213: -5112179916536593514
+    second: 0x72_DungeonTilesetII_v1.2_222
+  - first:
+      213: 7827914723634178059
+    second: 0x72_DungeonTilesetII_v1.2_223
+  - first:
+      213: 7398865188068008020
+    second: 0x72_DungeonTilesetII_v1.2_224
+  - first:
+      213: -4756957076143365220
+    second: enemy_knight_blue
+  - first:
+      213: -2057482204429846478
+    second: 0x72_DungeonTilesetII_v1.2_226
+  - first:
+      213: 5158373593222563962
+    second: 0x72_DungeonTilesetII_v1.2_227
+  - first:
+      213: -7580978759966526704
+    second: 0x72_DungeonTilesetII_v1.2_228
+  - first:
+      213: 301564772813567704
+    second: bottomLeftCorner_bottom
+  - first:
+      213: -6625234293415669435
+    second: bottomRightCorner_bottom
+  - first:
+      213: 808270517984920073
+    second: 0x72_DungeonTilesetII_v1.2_231
+  - first:
+      213: -2286404320640177426
+    second: 0x72_DungeonTilesetII_v1.2_232
+  - first:
+      213: -3616019367032127421
+    second: 0x72_DungeonTilesetII_v1.2_233
+  - first:
+      213: 5915737872458463664
+    second: 0x72_DungeonTilesetII_v1.2_234
+  - first:
+      213: 9138031198474328323
+    second: 0x72_DungeonTilesetII_v1.2_235
+  - first:
+      213: 4684373058705436754
+    second: 0x72_DungeonTilesetII_v1.2_236
+  - first:
+      213: 3262309413246502889
+    second: 0x72_DungeonTilesetII_v1.2_237
+  - first:
+      213: -3432841870775277248
+    second: 0x72_DungeonTilesetII_v1.2_238
+  - first:
+      213: -5456530455457070987
+    second: 0x72_DungeonTilesetII_v1.2_239
+  - first:
+      213: -6974514493961322555
+    second: 0x72_DungeonTilesetII_v1.2_240
+  - first:
+      213: 871096228331612874
+    second: 0x72_DungeonTilesetII_v1.2_241
+  - first:
+      213: -5672397746453557156
+    second: 0x72_DungeonTilesetII_v1.2_242
+  - first:
+      213: 8952669968750988445
+    second: 0x72_DungeonTilesetII_v1.2_243
+  - first:
+      213: 3042465696059209708
+    second: 0x72_DungeonTilesetII_v1.2_244
+  - first:
+      213: -5672758651625854984
+    second: 0x72_DungeonTilesetII_v1.2_245
+  - first:
+      213: 6384167797232492983
+    second: 0x72_DungeonTilesetII_v1.2_246
+  - first:
+      213: -8744924724191689272
+    second: 0x72_DungeonTilesetII_v1.2_247
+  - first:
+      213: -997049767158140207
+    second: 0x72_DungeonTilesetII_v1.2_248
+  - first:
+      213: -3544516186506608124
+    second: 0x72_DungeonTilesetII_v1.2_249
+  - first:
+      213: -3204908539833202135
+    second: 0x72_DungeonTilesetII_v1.2_250
+  - first:
+      213: 5460652040435177027
+    second: 0x72_DungeonTilesetII_v1.2_251
+  - first:
+      213: 173078076814612866
+    second: 0x72_DungeonTilesetII_v1.2_252
+  - first:
+      213: 3423332812683202730
+    second: 0x72_DungeonTilesetII_v1.2_253
+  - first:
+      213: -6940497625612150417
+    second: npc_4
+  - first:
+      213: -585788323913616282
+    second: 0x72_DungeonTilesetII_v1.2_255
+  - first:
+      213: -2125540882288900636
+    second: 0x72_DungeonTilesetII_v1.2_256
+  - first:
+      213: 79895453059543650
+    second: 0x72_DungeonTilesetII_v1.2_257
+  - first:
+      213: -5781799357469871357
+    second: 0x72_DungeonTilesetII_v1.2_258
+  - first:
+      213: -7611890710507695
+    second: 0x72_DungeonTilesetII_v1.2_259
+  - first:
+      213: 5373406772543586917
+    second: 0x72_DungeonTilesetII_v1.2_260
+  - first:
+      213: -4214764067574154629
+    second: 0x72_DungeonTilesetII_v1.2_261
+  - first:
+      213: 980628388644274930
+    second: 0x72_DungeonTilesetII_v1.2_262
+  - first:
+      213: 6767834949045253192
+    second: enemy_mask
+  - first:
+      213: -7418491935337779582
+    second: 0x72_DungeonTilesetII_v1.2_264
+  - first:
+      213: -7373988973612865506
+    second: 0x72_DungeonTilesetII_v1.2_265
+  - first:
+      213: -5667860146895186975
+    second: 0x72_DungeonTilesetII_v1.2_266
+  - first:
+      213: -1843873599747451862
+    second: 0x72_DungeonTilesetII_v1.2_267
+  - first:
+      213: 2123652929334606872
+    second: 0x72_DungeonTilesetII_v1.2_268
+  - first:
+      213: 3649760628312523604
+    second: 0x72_DungeonTilesetII_v1.2_269
+  - first:
+      213: -6196450219144562751
+    second: 0x72_DungeonTilesetII_v1.2_270
+  - first:
+      213: 1597681668544025825
+    second: 0x72_DungeonTilesetII_v1.2_271
+  - first:
+      213: -5823571468819568145
+    second: 0x72_DungeonTilesetII_v1.2_272
+  - first:
+      213: 2021432807787186359
+    second: 0x72_DungeonTilesetII_v1.2_273
+  - first:
+      213: -6576743299308094007
+    second: 0x72_DungeonTilesetII_v1.2_274
+  - first:
+      213: 6383862020968909560
+    second: lever_off
+  - first:
+      213: 4935069590397131596
+    second: lever_on
+  - first:
+      213: -9016950637059497943
+    second: 0x72_DungeonTilesetII_v1.2_277
+  - first:
+      213: 4171682312782177567
+    second: 0x72_DungeonTilesetII_v1.2_278
+  - first:
+      213: 6106964641330275110
+    second: 0x72_DungeonTilesetII_v1.2_279
+  - first:
+      213: -6931634341321064651
+    second: 0x72_DungeonTilesetII_v1.2_280
+  - first:
+      213: -8606281977059363264
+    second: doorTop_left
+  - first:
+      213: -7694782073626199299
+    second: doorTop_right
+  - first:
+      213: 3182910627909959905
+    second: 0x72_DungeonTilesetII_v1.2_283
+  - first:
+      213: -8120013951494304172
+    second: chest_closed
+  - first:
+      213: -1151183535336687072
+    second: chest_opening
+  - first:
+      213: 412613743517803815
+    second: chest_open
+  - first:
+      213: 946491003796122338
+    second: 0x72_DungeonTilesetII_v1.2_287
+  - first:
+      213: 1070874015390654649
+    second: enemy_bigOrc
+  - first:
+      213: 6279701332576647775
+    second: 0x72_DungeonTilesetII_v1.2_289
+  - first:
+      213: -2849970231911113198
+    second: 0x72_DungeonTilesetII_v1.2_290
+  - first:
+      213: -6769878642219842375
+    second: 0x72_DungeonTilesetII_v1.2_291
+  - first:
+      213: 8915510675178079744
+    second: 0x72_DungeonTilesetII_v1.2_292
+  - first:
+      213: -969170107999623721
+    second: 0x72_DungeonTilesetII_v1.2_293
+  - first:
+      213: 1605857564128328114
+    second: 0x72_DungeonTilesetII_v1.2_294
+  - first:
+      213: -6522750096058156029
+    second: wallTop_DoorLeft
+  - first:
+      213: 1188053989719480166
+    second: doorTopLeft_locked
+  - first:
+      213: -3456204036175929429
+    second: doorTopRight_locked
+  - first:
+      213: -2542143261528659899
+    second: wallTop_doorRight
+  - first:
+      213: -8247465359661004890
+    second: doorTopLeft_open
+  - first:
+      213: 5839711364489009804
+    second: doorTopRight_open
+  - first:
+      213: 3910303691973826659
+    second: 0x72_DungeonTilesetII_v1.2_301
+  - first:
+      213: -5468237104189352849
+    second: 0x72_DungeonTilesetII_v1.2_302
+  - first:
+      213: -1825911548904378110
+    second: 0x72_DungeonTilesetII_v1.2_303
+  - first:
+      213: -3344243792545340869
+    second: 0x72_DungeonTilesetII_v1.2_304
+  - first:
+      213: -7480480135905865023
+    second: potion_brown_large
+  - first:
+      213: -179136583185334926
+    second: potion_blue_large
+  - first:
+      213: 8826230087671384716
+    second: potion_green_large
+  - first:
+      213: -2163283723368710090
+    second: potion_yellow_large
+  - first:
+      213: 7057064276668693872
+    second: 0x72_DungeonTilesetII_v1.2_309
+  - first:
+      213: 2452415722494446986
+    second: wall_doorLeft
+  - first:
+      213: 5414614173477357473
+    second: doorBottomLeft_locked
+  - first:
+      213: 7491949589162979747
+    second: doorBottomRight_locked
+  - first:
+      213: 3370882242466901485
+    second: wall_doorRight
+  - first:
+      213: 337108290897670317
+    second: doorBottomLeft_open
+  - first:
+      213: -7781506331142148833
+    second: doorBottomRight_open
+  - first:
+      213: 55429305038155737
+    second: mimic_closed
+  - first:
+      213: 7362924243986946924
+    second: mimic_opening
+  - first:
+      213: 7769886629095733119
+    second: mimic_open
+  - first:
+      213: 7177166043064507346
+    second: 0x72_DungeonTilesetII_v1.2_319
+  - first:
+      213: 2231711258996402089
+    second: 0x72_DungeonTilesetII_v1.2_320
+  - first:
+      213: -8415779962521916761
+    second: 0x72_DungeonTilesetII_v1.2_321
+  - first:
+      213: -6101819711294515814
+    second: 0x72_DungeonTilesetII_v1.2_322
+  - first:
+      213: -8717706334187794006
+    second: enemy_berserker
+  - first:
+      213: -9193710470940321788
+    second: 0x72_DungeonTilesetII_v1.2_324
+  - first:
+      213: 7200260461773898413
+    second: 0x72_DungeonTilesetII_v1.2_325
+  - first:
+      213: -1135217746943792518
+    second: 0x72_DungeonTilesetII_v1.2_326
+  - first:
+      213: -6839609848630467209
+    second: 0x72_DungeonTilesetII_v1.2_327
+  - first:
+      213: 4197617996666589307
+    second: 0x72_DungeonTilesetII_v1.2_328
+  - first:
+      213: 2394244798138737419
+    second: 0x72_DungeonTilesetII_v1.2_329
+  - first:
+      213: 163958895725352135
+    second: 0x72_DungeonTilesetII_v1.2_330
+  - first:
+      213: 2350001475203859228
+    second: 0x72_DungeonTilesetII_v1.2_331
+  - first:
+      213: -6436354845110762553
+    second: 0x72_DungeonTilesetII_v1.2_332
+  - first:
+      213: -7912152246952665758
+    second: 0x72_DungeonTilesetII_v1.2_333
+  - first:
+      213: 8018630394102371302
+    second: 0x72_DungeonTilesetII_v1.2_334
+  - first:
+      213: 4969545857191191293
+    second: 0x72_DungeonTilesetII_v1.2_335
+  - first:
+      213: -3247583314278402417
+    second: 0x72_DungeonTilesetII_v1.2_336
+  - first:
+      213: -325354240291040872
+    second: 0x72_DungeonTilesetII_v1.2_337
+  - first:
+      213: -6283580363212892712
+    second: 0x72_DungeonTilesetII_v1.2_338
+  - first:
+      213: -203283712513682608
+    second: 0x72_DungeonTilesetII_v1.2_339
+  - first:
+      213: -1681224705391465360
+    second: 0x72_DungeonTilesetII_v1.2_340
+  - first:
+      213: 4792272762378262665
+    second: 0x72_DungeonTilesetII_v1.2_341
+  - first:
+      213: 577011012135552724
+    second: 0x72_DungeonTilesetII_v1.2_342
+  - first:
+      213: -2119555813021791993
+    second: 0x72_DungeonTilesetII_v1.2_343
+  - first:
+      213: -3845952552957275672
+    second: 0x72_DungeonTilesetII_v1.2_344
+  - first:
+      213: 1048625429681990203
+    second: 0x72_DungeonTilesetII_v1.2_345
+  - first:
+      213: 5991212408736235559
+    second: 0x72_DungeonTilesetII_v1.2_346
+  - first:
+      213: 2146580857765686535
+    second: 0x72_DungeonTilesetII_v1.2_347
+  - first:
+      213: 582236268826949925
+    second: 0x72_DungeonTilesetII_v1.2_348
+  - first:
+      213: -1656640617722778921
+    second: 0x72_DungeonTilesetII_v1.2_349
+  - first:
+      213: 5856954698817607905
+    second: 0x72_DungeonTilesetII_v1.2_350
+  - first:
+      213: -1364324976982829478
+    second: 0x72_DungeonTilesetII_v1.2_351
+  - first:
+      213: -5517807763041333474
+    second: 0x72_DungeonTilesetII_v1.2_352
+  - first:
+      213: 1038226549453442982
+    second: 0x72_DungeonTilesetII_v1.2_353
+  - first:
+      213: 4193152814725575622
+    second: 0x72_DungeonTilesetII_v1.2_354
+  - first:
+      213: -5456433289598613073
+    second: 0x72_DungeonTilesetII_v1.2_355
+  - first:
+      213: -5515184090073635051
+    second: 0x72_DungeonTilesetII_v1.2_356
+  - first:
+      213: -321359889010911859
+    second: enemy_cultist
+  - first:
+      213: -6200785247696197908
+    second: 0x72_DungeonTilesetII_v1.2_358
+  - first:
+      213: -6952617354806732765
+    second: 0x72_DungeonTilesetII_v1.2_359
+  - first:
+      213: 6985190217833249297
+    second: enemy_boss_golem
+  - first:
+      213: -794965817829544756
+    second: 0x72_DungeonTilesetII_v1.2_361
+  - first:
+      213: -7501094987678543427
+    second: 0x72_DungeonTilesetII_v1.2_362
+  - first:
+      213: 4266451354744380976
+    second: 0x72_DungeonTilesetII_v1.2_363
+  - first:
+      213: 6527676334774257382
+    second: 0x72_DungeonTilesetII_v1.2_364
+  - first:
+      213: -7969895718260974009
+    second: 0x72_DungeonTilesetII_v1.2_365
+  - first:
+      213: 7169489253693405857
+    second: 0x72_DungeonTilesetII_v1.2_366
+  - first:
+      213: 2302883793586138087
+    second: 0x72_DungeonTilesetII_v1.2_367
+  - first:
+      213: -3433620629006084201
+    second: 0x72_DungeonTilesetII_v1.2_368
+  - first:
+      213: 3226121468182536871
+    second: 0x72_DungeonTilesetII_v1.2_369
+  - first:
+      213: -2445615557687066235
+    second: 0x72_DungeonTilesetII_v1.2_370
+  - first:
+      213: 443263975054329554
+    second: 0x72_DungeonTilesetII_v1.2_371
+  - first:
+      213: 7849898154265803277
+    second: 0x72_DungeonTilesetII_v1.2_372
+  - first:
+      213: -6725782411127688428
+    second: 0x72_DungeonTilesetII_v1.2_373
+  - first:
+      213: 9096801367330102280
+    second: 0x72_DungeonTilesetII_v1.2_374
+  - first:
+      213: 7791290852062897777
+    second: 0x72_DungeonTilesetII_v1.2_375
+  - first:
+      213: -3039381608086779754
+    second: 0x72_DungeonTilesetII_v1.2_376
+  - first:
+      213: 6893742196390131527
+    second: 0x72_DungeonTilesetII_v1.2_377
+  - first:
+      213: 6326360448205116008
+    second: 0x72_DungeonTilesetII_v1.2_378
+  - first:
+      213: -5981122141380373029
+    second: enemy_demon1
+  - first:
+      213: 4823820971140203265
+    second: 0x72_DungeonTilesetII_v1.2_380
+  - first:
+      213: -3445016279614490642
+    second: 0x72_DungeonTilesetII_v1.2_381
+  - first:
+      213: -8692631462134663688
+    second: 0x72_DungeonTilesetII_v1.2_382
+  - first:
+      213: 3024402696242989782
+    second: 0x72_DungeonTilesetII_v1.2_383
+  - first:
+      213: 1574334686444982216
+    second: 0x72_DungeonTilesetII_v1.2_384
+  - first:
+      213: 8645729064977197798
+    second: 0x72_DungeonTilesetII_v1.2_385
+  - first:
+      213: -9122665713280085905
+    second: 0x72_DungeonTilesetII_v1.2_386
+  - first:
+      213: -2343364147692751242
+    second: 0x72_DungeonTilesetII_v1.2_387
+  - first:
+      213: 7885342070165252914
+    second: 0x72_DungeonTilesetII_v1.2_388
+  - first:
+      213: -3036622587422507503
+    second: 0x72_DungeonTilesetII_v1.2_389
+  - first:
+      213: 2536715372367637707
+    second: 0x72_DungeonTilesetII_v1.2_390
+  - first:
+      213: -1475592830881503416
+    second: 0x72_DungeonTilesetII_v1.2_391
+  - first:
+      213: 4126084414184605018
+    second: 0x72_DungeonTilesetII_v1.2_392
+  - first:
+      213: -8740054296437943813
+    second: 0x72_DungeonTilesetII_v1.2_393
+  - first:
+      213: 2265722613004324111
+    second: 0x72_DungeonTilesetII_v1.2_394
+  - first:
+      213: -6730531219286266007
+    second: 0x72_DungeonTilesetII_v1.2_395
+  - first:
+      213: -5113452988053521316
+    second: 0x72_DungeonTilesetII_v1.2_396
+  - first:
+      213: 2227648317342868433
+    second: 0x72_DungeonTilesetII_v1.2_397
+  - first:
+      213: -5417504521516496454
+    second: 0x72_DungeonTilesetII_v1.2_398
+  - first:
+      213: 314327828898743396
+    second: 0x72_DungeonTilesetII_v1.2_399
+  - first:
+      213: 5851016293751648312
+    second: 0x72_DungeonTilesetII_v1.2_400
+  - first:
+      213: -2924940670954140782
+    second: 0x72_DungeonTilesetII_v1.2_401
+  - first:
+      213: 2589458876905939272
+    second: 0x72_DungeonTilesetII_v1.2_402
+  - first:
+      213: -4267788534812349678
+    second: 0x72_DungeonTilesetII_v1.2_403
+  - first:
+      213: -6272844798349952845
+    second: 0x72_DungeonTilesetII_v1.2_404
+  - first:
+      213: -6159360848639290968
+    second: 0x72_DungeonTilesetII_v1.2_405
+  - first:
+      213: -3314857854897211703
+    second: 0x72_DungeonTilesetII_v1.2_406
+  - first:
+      213: 2653319945500796667
+    second: 0x72_DungeonTilesetII_v1.2_407
+  - first:
+      213: 3312775066213076516
+    second: enemy_boss_orc
+  - first:
+      213: 3889521887819866199
+    second: 0x72_DungeonTilesetII_v1.2_409
+  - first:
+      213: 970548831050928252
+    second: 0x72_DungeonTilesetII_v1.2_410
+  - first:
+      213: -9174549461738507211
+    second: 0x72_DungeonTilesetII_v1.2_411
+  - first:
+      213: 4282396915127125690
+    second: 0x72_DungeonTilesetII_v1.2_412
+  - first:
+      213: -5791401774659129962
+    second: 0x72_DungeonTilesetII_v1.2_413
+  - first:
+      213: 8272428852964947832
+    second: 0x72_DungeonTilesetII_v1.2_414
+  - first:
+      213: 1998492193733491255
+    second: 0x72_DungeonTilesetII_v1.2_415
+  - first:
+      213: -493275884439446742
+    second: 0x72_DungeonTilesetII_v1.2_416
+  - first:
+      213: -4441839205289726603
+    second: 0x72_DungeonTilesetII_v1.2_417
+  - first:
+      213: 7466599810693784522
+    second: 0x72_DungeonTilesetII_v1.2_418
+  - first:
+      213: -6409594849382605819
+    second: 0x72_DungeonTilesetII_v1.2_419
+  - first:
+      213: 4332285597043721892
+    second: 0x72_DungeonTilesetII_v1.2_420
+  - first:
+      213: 3481150889172120452
+    second: 0x72_DungeonTilesetII_v1.2_421
+  - first:
+      213: 4526445304826134352
+    second: 0x72_DungeonTilesetII_v1.2_422
+  - first:
+      213: -1679526015024842307
+    second: 0x72_DungeonTilesetII_v1.2_423
+  - first:
+      213: -9198743038827599652
+    second: 0x72_DungeonTilesetII_v1.2_424
+  - first:
+      213: 5576023473554478073
+    second: enemy_demon2
+  - first:
+      213: -8383778152222202263
+    second: 0x72_DungeonTilesetII_v1.2_426
+  - first:
+      213: -2991534282832514848
+    second: 0x72_DungeonTilesetII_v1.2_427
+  - first:
+      213: -8029354802288347879
+    second: 0x72_DungeonTilesetII_v1.2_428
+  - first:
+      213: -6819409869828475992
+    second: 0x72_DungeonTilesetII_v1.2_429
+  - first:
+      213: -4123454455500877965
+    second: 0x72_DungeonTilesetII_v1.2_430
+  - first:
+      213: -5494308286453484133
+    second: 0x72_DungeonTilesetII_v1.2_431
+  - first:
+      213: 75797122250082769
+    second: 0x72_DungeonTilesetII_v1.2_432
+  - first:
+      213: 6319073851289878336
+    second: 0x72_DungeonTilesetII_v1.2_433
+  - first:
+      213: 2987330472938477372
+    second: 0x72_DungeonTilesetII_v1.2_434
+  - first:
+      213: 6765186686714314013
+    second: 0x72_DungeonTilesetII_v1.2_435
+  - first:
+      213: -8577987429007588143
+    second: 0x72_DungeonTilesetII_v1.2_436
+  - first:
+      213: 6019938805493967021
+    second: 0x72_DungeonTilesetII_v1.2_437
+  - first:
+      213: -247033637276589677
+    second: 0x72_DungeonTilesetII_v1.2_438
+  - first:
+      213: -2966495828508884092
+    second: 0x72_DungeonTilesetII_v1.2_439
+  - first:
+      213: 464657338098358090
+    second: 0x72_DungeonTilesetII_v1.2_440
+  - first:
+      213: 3147196791576446564
+    second: 0x72_DungeonTilesetII_v1.2_441
+  - first:
+      213: -9179131539598126743
+    second: 0x72_DungeonTilesetII_v1.2_442
+  - first:
+      213: -2717387000185478650
+    second: 0x72_DungeonTilesetII_v1.2_443
+  - first:
+      213: -7916679543196207408
+    second: 0x72_DungeonTilesetII_v1.2_444
+  - first:
+      213: -8728563075229275397
+    second: 0x72_DungeonTilesetII_v1.2_445
+  - first:
+      213: 2739756261800587100
+    second: 0x72_DungeonTilesetII_v1.2_446
+  - first:
+      213: -8275112775247660139
+    second: 0x72_DungeonTilesetII_v1.2_447
+  - first:
+      213: -465860189620220831
+    second: 0x72_DungeonTilesetII_v1.2_448
+  - first:
+      213: -8714822232222030678
+    second: 0x72_DungeonTilesetII_v1.2_449
+  - first:
+      213: -6697145483457686698
+    second: 0x72_DungeonTilesetII_v1.2_450
+  - first:
+      213: 1570272100590380971
+    second: enemy_boss_demon
+  - first:
+      213: 4955896306049926196
+    second: 0x72_DungeonTilesetII_v1.2_452
+  - first:
+      213: 9187435601235582239
+    second: 0x72_DungeonTilesetII_v1.2_453
+  - first:
+      213: 3727522569784397091
+    second: 0x72_DungeonTilesetII_v1.2_454
+  - first:
+      213: -4943961658863851539
+    second: 0x72_DungeonTilesetII_v1.2_455
+  - first:
+      213: -8084341628589483091
+    second: 0x72_DungeonTilesetII_v1.2_456
+  - first:
+      213: 6065370665994326760
+    second: 0x72_DungeonTilesetII_v1.2_457
+  - first:
+      213: 59843076599561402
+    second: 0x72_DungeonTilesetII_v1.2_458
+  - first:
+      213: -6482380986202542433
+    second: 0x72_DungeonTilesetII_v1.2_459
+  - first:
+      213: 1542446265729032166
+    second: 0x72_DungeonTilesetII_v1.2_460
+  - first:
+      213: -6144876103638829830
+    second: 0x72_DungeonTilesetII_v1.2_461
+  - first:
+      213: -6896805676533821177
+    second: 0x72_DungeonTilesetII_v1.2_462
+  - first:
+      213: 3742502159099991635
+    second: 0x72_DungeonTilesetII_v1.2_463
+  - first:
+      213: -1226040446823622527
+    second: 0x72_DungeonTilesetII_v1.2_464
+  - first:
+      213: -7750455701359083953
+    second: 0x72_DungeonTilesetII_v1.2_465
+  - first:
+      213: -7315429855846133731
+    second: 0x72_DungeonTilesetII_v1.2_466
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wallTop_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 495
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c74006645474468a337b20285ecd6
+      internalID: -169494284831070887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallTop_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8071d1bae4a2be42869223ebe8985cd
+      internalID: -5612528070820006317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallTop_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57e73217f42d646898aa3d9f79948d
+      internalID: -7987294891690179273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fountainWallTop_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef76467ff1a8084f8d59f188ad5d359
+      internalID: 1239350156046317824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a47d21bc94d144a7369d894b0033b
+      internalID: 6080612640920634678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812064143630efb47be60a032a54cd9b
+      internalID: 755492247015306760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96fae9503850744ae5edf05cfb5dcc
+      internalID: -2464670612366509162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaFountainWall
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393d55c68d67cef4bbb76210be1acfae
+      internalID: 8849666756848519263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb3a82ea0815984a8e3e4e96dcd6b21
+      internalID: -6050851277337184390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_rock
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1001d0040ed7644bafa6381ce888bd
+      internalID: 8846823349010027769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFlag_R
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4b4776edd55a408eff8719c6f18c4
+      internalID: 7375185911448686712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFlag_B
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cf9240c92e4214ba2799554a4415f4
+      internalID: 5137073483053603258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallHole_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e771929939fb84a9302ac9324b3877
+      internalID: 5999054045664761934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lavaFountainFloor
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 463
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499102ea9bc5a3d4cabd837e8be121b5
+      internalID: -7220412783388757488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_orc
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509f1b8b3ef579441965e9298c0870e9
+      internalID: -7249871673279433844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFlag_G
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e548369fa00b334fbe37c03ca7a8a29
+      internalID: -3752615037331132143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallFlag_Y
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65729b17942d692439458757f5fdf2cc
+      internalID: -8524182100926056818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallHole_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898e11b667b11ee44bacd30c95c67622
+      internalID: 5682201340809049713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterFountainWall
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e485472eec4b4890f915edbb97603
+      internalID: -3791005384617080142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fbb9dbade6d9340b8679af28b76c4e
+      internalID: 1455424368585503131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_imp
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a59167f83d35334096067b606f4a8aa
+      internalID: 5293645860388379719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55875fd7c15b1ef48824ce6296ecc391
+      internalID: -6658819770586479741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee40d5aabdf6be47848afcec573fbe5
+      internalID: 1657169660341192960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad78b7881f157947bd8764b02fe77a6
+      internalID: 8002204934701931823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waterFountainFloor
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd57671ad0effa418d99c3a352a2645
+      internalID: -7426424633400910776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acidFountainWall
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1126cea611acfb04095c3993c47186f6
+      internalID: -7322172814951437695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columnFree_top
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c02a25a533d945a578f0b4ffcd5d2
+      internalID: 351382980409588647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columnWall_top
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753b4633d2d5ce34894c43ddd58e59e6
+      internalID: 551007963469413570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de2d8207c36794eb49eb955a757064
+      internalID: -7652454369146500227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5e12aadd71bc4d9e21e51af02692f
+      internalID: 260739988955557121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 416
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84002e6ddd14e8a4cb3bb8b2b9e7b7a5
+      internalID: -5848943020749600896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 416
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9179f9df46bde41a2df4a438d63a0c
+      internalID: -3681843292623115260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352cc96e12a87d648a999da42edf1388
+      internalID: 7327796941909214457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_DungeonTilesetII_v1.2_119
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0053f37ea8204bd498e0d37ee1957c3e
+      internalID: 6908775427783250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231bd170f60d81b49bcd20e01f4379e8
+      internalID: 3391611638645497407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfc77871f37bcd4d830dc43b546756f
+      internalID: -6995807642927980359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 420
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2131cf438fc934f92901658100460f
+      internalID: -6484682032242348630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_skeleton
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5944759917149844fbe1ca86fe4e9444
+      internalID: 2243685600903963446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acidFountainFloor
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3d28405eb0b44797e191df0fe76f7
+      internalID: 2726687786933903898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columnFree_mid
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d6bcb016a7d464195ff3987ba8fe59
+      internalID: -6024088987350257278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columnWall_mid
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a2e53075bca5f4fabf38c417d2ea96
+      internalID: 518156849203317983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rKnight_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 419
+        width: 16
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2694e6438b0ca40bf8e344cef1551f
+      internalID: 3726806697428311458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftWall_topEnd
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf5b330e332944b85d5554cdc03b36
+      internalID: 1981754797575132797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightWall_topEnd
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11323053b0f7adc4cb67da488731b5c0
+      internalID: -2933098209062064966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topLeftCorner_top
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc5d3968ae88824a825a96db3de7f2e
+      internalID: 1981922085739619945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topRightCorner_top
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73853bbe0716e3a46815c11bc8255e0c
+      internalID: -1320082178727969734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columnFree_bottom
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fec2184ae4874488578fe87622cd37
+      internalID: 376598780635743654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columnWall_bottom
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0517bca5711c51a49b0cbcfa69aacc5d
+      internalID: -7044218670726624459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0x72_DungeonTilesetII_v1.2_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8077aa12507e2e842ac208adbb1a1a67
+      internalID: -7678815045218363966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_greyGoo
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35592ff9d7f7c448a769ed0f3592da
+      internalID: -8543447957951253234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_greenGoo
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf1b9a4cf8b384d8ec95640bfb232e
+      internalID: 7864185001525602667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftWall
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3a138eb7d315e4e88ca1aa36454cf5
+      internalID: -2679843350805463623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightWall
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c6dcde9d2da04eadb3bc46fcf7467
+      internalID: -1315177169410104815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topLeftCorner_bottom
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b7810518d3d6a46b976f1551090211
+      internalID: -4267292468457542550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topRightCorner_bottom
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705cff1b6a274bb4a8378a05fae7edec
+      internalID: -6797154233701649291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leftWall_bottomEnd
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196d750109dede049b79b215ba99ecee
+      internalID: 7581735016304738181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rightWall_bottomEnd
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6b7ea495442b042ac6efeed65a5737
+      internalID: 798642726257118607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomLeftCorner_top
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0731aab9f54fb47b3d1e350e817460
+      internalID: -6989701030369137640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomRightCorner_top
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b31adfcee1f6d74cac85e5ad5536664
+      internalID: -3405223129993121585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253af0429a10e0b4ba406aa249c8fc9c
+      internalID: -2534038559346326866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_knight_grey
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de83502340935442893222438171061
+      internalID: -4786616968576104714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_knight_blue
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36ad57f39a2e545b724b2bc27bc101
+      internalID: -4756957076143365220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomLeftCorner_bottom
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a224419da6054cb1509aede697740
+      internalID: 301564772813567704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottomRightCorner_bottom
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5198178dcaa901d44ae9ad92353f4fa9
+      internalID: -6625234293415669435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d1cb99ae42ac74a8b1615120c87345
+      internalID: -6940497625612150417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_mask
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b5133f073ef90419a4732be09b4ceb
+      internalID: 6767834949045253192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lever_off
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f75b6747190c9b479e8a949771a3d26
+      internalID: 6383862020968909560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lever_on
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16afde9c1d2ba64abb3fb1f9f59b4a7
+      internalID: 4935069590397131596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorTop_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa93b24ca350144a1a384832aeca67
+      internalID: -8606281977059363264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorTop_right
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2235389d3878d45b00d06363665cfd
+      internalID: -7694782073626199299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_closed
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bafb7e57dc6334c9795e9dc9a33989
+      internalID: -8120013951494304172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_opening
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb40a7ad1999f74a9681d338742a84e
+      internalID: -1151183535336687072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_open
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b38ac6cb7edbc439cb739a6e094315
+      internalID: 412613743517803815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_bigOrc
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db515b140d2c874f9762cabeef62c3f
+      internalID: 1070874015390654649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallTop_DoorLeft
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f275c36e107a58d4bb56691a049ebce3
+      internalID: -6522750096058156029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorTopLeft_locked
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8edaf026bd1cd044a80e50c9f97cedd
+      internalID: 1188053989719480166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorTopRight_locked
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f5c7d1ac4ec304caaaa0cfbf3393ae
+      internalID: -3456204036175929429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallTop_doorRight
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b32142ed5b1146ba14c4c23bcc766
+      internalID: -2542143261528659899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorTopLeft_open
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe153841aa112f74ab20b13e7a60416f
+      internalID: -8247465359661004890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorTopRight_open
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f73acd90c7f3043b8c2ca9977e70d8
+      internalID: 5839711364489009804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_brown_large
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a26ad975104a44b8f76fe9a844f3f9
+      internalID: -7480480135905865023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_blue_large
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d52b974b72c4d43bc308052d6a5ee4
+      internalID: -179136583185334926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_green_large
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61746e038ee9aab4f90eb652a63cbc22
+      internalID: 8826230087671384716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_yellow_large
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cbce39fc47e7040bcf926ed1e11a83
+      internalID: -2163283723368710090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_doorLeft
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df4129ada6152e4097daad5da3f93e6
+      internalID: 2452415722494446986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorBottomLeft_locked
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9018c7c136b8c48b9dc27278f311fa
+      internalID: 5414614173477357473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorBottomRight_locked
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2b3e88f15fa6540a60398851036226
+      internalID: 7491949589162979747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_doorRight
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b497b9e82c57194d8d34c126f267e28
+      internalID: 3370882242466901485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorBottomLeft_open
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e80e104a5453b428dd1a16f368b9ca
+      internalID: 337108290897670317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doorBottomRight_open
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238f5b44d9dc2c449983005bc9037c2
+      internalID: -7781506331142148833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_closed
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c9007e318df1439e71717963ec377
+      internalID: 55429305038155737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_opening
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6cad7d8efada046a43c320232ea700
+      internalID: 7362924243986946924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mimic_open
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17faf54211d93fc48a1519233dc366e4
+      internalID: 7769886629095733119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_berserker
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95e77af3df8f643a84bcaa2b81c0cc
+      internalID: -8717706334187794006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_cultist
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 224
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9687bb0b455dc4ead3f5527beed55d
+      internalID: -321359889010911859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_boss_golem
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a47a477a710a4a4bbca387f0f70b9f6
+      internalID: 6985190217833249297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_demon1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b009bf0a3d3d9cf4ea2a03e841b91a42
+      internalID: -5981122141380373029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_boss_orc
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b24cd8c690c54945accbe3f87a666b6
+      internalID: 3312775066213076516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_demon2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e93e9dcb6ebd44a0ec67f6494d876
+      internalID: 5576023473554478073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_boss_demon
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ca6101c0483b742863641b253c925a
+      internalID: 1570272100590380971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5412cfe77b450da4eb7be4f5bbcbf9bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
