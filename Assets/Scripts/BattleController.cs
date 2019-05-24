@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[System.Serializable]
-public class Enemy : Entity
+public class BattleCOntroller : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,10 +15,4 @@ public class Enemy : Entity
     {
         
     }
-
-    public void onDeath()
-    {
-
-    }
-
 }

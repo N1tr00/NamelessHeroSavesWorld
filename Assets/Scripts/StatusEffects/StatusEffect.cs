@@ -5,6 +5,7 @@ using UnityEngine;
 public abstract class StatusEffect
 {
     public int strength;
+    private Entity target;
 
     public StatusEffect(int str)
     {

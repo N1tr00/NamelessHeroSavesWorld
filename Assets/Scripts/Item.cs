@@ -12,4 +12,7 @@ public class Item
     public double evasionChance;
     public double critChance;
     public string description;
+
+
+
 }

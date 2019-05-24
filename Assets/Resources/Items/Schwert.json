@@ -1,0 +1,9 @@
+{
+"itemName":"Einfaches Schwert",
+"healthPoints":0,
+"attackDamage":10,
+"armour":0,
+"evasionChance":5,
+"critChance":0.5,
+"description":"Es ist ein einfaches Schwert was erwartest du?"
+}

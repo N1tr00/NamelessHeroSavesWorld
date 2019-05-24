@@ -1,0 +1,11 @@
+{
+"level":1,
+"healthPoints":100,
+"name":"Goblin",
+"attackDamage":1,
+"armour":0,
+"evasionChance":5,
+"critChance":0.01,
+"inventory":{},
+"statusEffects":{}
+}
